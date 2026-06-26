@@ -34,7 +34,7 @@ Gaps are defined as the difference in unemployment rates between racial/ethnic g
 | `msa_data.csv` | MSA-level unemployment data. Source: U.S. Census Bureau |
 | `msagdp_raw.csv` | BEA MSA GDP data (LineCode = 2, real GDP). Source BEA's CAGDP1: County and Metropolitan Area Gross Domestic Product (GDP) Summary |
 
-Portfolio: https://sites.google.com/view/matthewong/selected-work/msa-unemployment
+Portfolio: https://matthewong01.github.io/msa-unemployment/
 
 
 ---
